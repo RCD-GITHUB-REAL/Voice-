@@ -1,5 +1,5 @@
 {
-  "hi": "https://github.com/RCD-GITHUB-REAL/Voice-/raw/refs/heads/main/My%20data/Audio_love.mp3",
+  "${prefix}menu": "https://github.com/RCD-GITHUB-REAL/Voice-/raw/refs/heads/main/My%20data/Audio_love.mp3",
   "bye": "https://example.com/path/to/bye-voice.mp3",
   "gm": "https://github.com/RCD-GITHUB-REAL/Voice-/raw/refs/heads/main/My%20data/Audio_love.mp3"
 }
